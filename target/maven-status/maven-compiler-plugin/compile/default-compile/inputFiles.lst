@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\batchProcessing\src\main\java\com\batchprocessing\BatchProcessingApplication.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\batchProcessing\src\main\java\com\batchprocessing\config\BatchConfig.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\batchProcessing\src\main\java\com\batchprocessing\config\ReviewItemProcessor.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\batchProcessing\src\main\java\com\batchprocessing\controller\ReviewBatchController.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\batchProcessing\src\main\java\com\batchprocessing\dto\ReviewInfodto.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\batchProcessing\src\main\java\com\batchprocessing\entity\ReviewInfo.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\batchProcessing\src\main\java\com\batchprocessing\repository\ReviewInfoRepository.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\batchProcessing\src\main\java\com\batchprocessing\service\RevierwInfoService.java
