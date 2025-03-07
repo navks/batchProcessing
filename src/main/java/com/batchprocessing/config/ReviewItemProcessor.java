@@ -16,6 +16,4 @@ public class ReviewItemProcessor implements ItemProcessor<ReviewInfo, ReviewInfo
 //		return null;// like this we have write the logic , that if this happen then it will take the data in the itemWriter
 		return item;
 	}
-	
-
 }
