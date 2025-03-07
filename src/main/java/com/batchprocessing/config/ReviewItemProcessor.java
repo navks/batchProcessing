@@ -9,8 +9,7 @@ public class ReviewItemProcessor implements ItemProcessor<ReviewInfo, ReviewInfo
 
 	@Override
 	public ReviewInfo process(ReviewInfo item) throws Exception {
-		// TODO Auto-generated method stub
-		//here we have to write process logic 
+		//here we have to write process logic
 //		if(item.getRatings().equals("5")) {
 //			return item;
 //		}
