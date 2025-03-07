@@ -1,0 +1,8 @@
+com\batchprocessing\controller\ReviewBatchController.class
+com\batchprocessing\service\RevierwInfoService.class
+com\batchprocessing\dto\ReviewInfodto.class
+com\batchprocessing\config\BatchConfig.class
+com\batchprocessing\entity\ReviewInfo.class
+com\batchprocessing\BatchProcessingApplication.class
+com\batchprocessing\config\ReviewItemProcessor.class
+com\batchprocessing\repository\ReviewInfoRepository.class
